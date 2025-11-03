@@ -288,7 +288,7 @@
         <img src="image/bapak.jpg" alt="Bapak">
         <div class="member-info">
           <h4>Ayah</h4>
-          <p>Penyemangat keluarga, tempat bersandar dan panutan sejati.</p>
+          <p>Ayah adalah penyemangatku, bertanggung jawab yang tidak pernah mengeluh</p>
         </div>
       </div>
 
@@ -312,7 +312,7 @@
         <img src="image/Foto ku.jpg" alt="Sitampan">
         <div class="member-info">
           <h4>Aku</h4>
-          <p>Pewaris tawa dan kenangan yang akan terus dijaga.</p>
+          <p> siganteng,imut, alim, perhatian, sopan, ramah</p>
         </div>
       </div>
     </div>
