@@ -3,6 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HMKN FAMS - Nostalgia Keluarga</title>
+  <link rel="icon" type="image/png" href="image/d0ab3a15-8015-41b1-b2e5-971ca1c8f818.png">
   <style>
     /* ================================
        HMKN FAMS — Nostalgia Family Edition
@@ -288,7 +289,7 @@
         <img src="image/bapak.jpg" alt="Bapak">
         <div class="member-info">
           <h4>Ayah</h4>
-          <p>Ayah adalah penyemangatku, bertanggung jawab yang tidak pernah mengeluh</p>
+          <p>Ayah adalah penyemangatku, bertanggung jawab yang tidak pernah mengeluh</p>
         </div>
       </div>
 
@@ -296,7 +297,7 @@
         <img src="image/mama.jpg" alt="Mama">
         <div class="member-info">
           <h4>Mama</h4>
-          <p>Ibu adalah lentera yang menerangi hidupku, senyum dan pelukan eratmu yg selalu kurindukan</p>
+          <p>Ibu adalah lentera yang menerangi hidupku, senyum dan pelukan eratmu yg selalu kurindukan</p>
         </div>
       </div>
 
@@ -304,7 +305,7 @@
         <img src="image/kakak.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Kakak</h4>
-          <p>Kakakku yang cantik, baik hati dan tidak sombong, selalu berbagi rezeki kepada adiknya, sayang orangtua dan adiknya</p>
+          <p>Kakakku yang cantik, baik hati dan tidak sombong, selalu berbagi rezeki kepada adiknya, sayang orangtua dan adiknya</p>
         </div>
       </div>
 
@@ -468,7 +469,7 @@
 
       <div class="audio-container">
         <audio id="audioPlayer" controls autoplay loop>
-          <source src="music1.mp3" type="audio/mp3">
+          <source src="Laskar Pelangi  TRUST (Trinity Youth Symphony Orchestra).mp3" type="audio/mp3">
           <source src="music2.mp3" type="audio/mp3">
           Browser kamu tidak mendukung audio.
         </audio>
