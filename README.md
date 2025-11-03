@@ -1,15 +1,5 @@
 # HMKN-FAMS
 
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HMKN FAMS - Nostalgia Keluarga</title>
-  <style>
-    /* ================================
-       HMKN FAMS — Nostalgia Family Edition
-       by ChatGPT x Nathanael Sianipar
-       ================================ */
 
     :root {
       --gold-light: #ffd27f;
@@ -290,7 +280,7 @@
         <img src="image/bapak.jpg" alt="Bapak">
         <div class="member-info">
           <h4>Ayah</h4>
-          <p>Penyemangat keluarga, tempat bersandar dan panutan sejati.</p>
+          <p>---</p>
         </div>
       </div>
 
@@ -298,7 +288,7 @@
         <img src="image/mama.jpg" alt="Mama">
         <div class="member-info">
           <h4>Mama</h4>
-          <p>Pelukannya adalah rumah, senyumnya penenang hati.</p>
+          <p>---</p>
         </div>
       </div>
 
@@ -306,7 +296,7 @@
         <img src="image/kakak.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Kakak</h4>
-          <p>Pembawa canda, teman cerita, dan partner gila dalam petualangan.</p>
+          <p>---</p>
         </div>
       </div>
 
@@ -314,7 +304,7 @@
         <img src="image/Foto ku.jpg" alt="Sitampan">
         <div class="member-info">
           <h4>Aku</h4>
-          <p>Pewaris tawa dan kenangan yang akan terus dijaga.</p>
+          <p>---</p>
         </div>
       </div>
     </div>
