@@ -296,7 +296,7 @@
         <img src="image/mama.jpg" alt="Mama">
         <div class="member-info">
           <h4>Mama</h4>
-          <p>Pelukannya adalah rumah, senyumnya penenang hati.</p>
+          <p>Ibu adalah lentera yang menerangi hidupku, senyum dan pelukan eratmu yg selalu kurindukan</p>
         </div>
       </div>
 
@@ -304,7 +304,7 @@
         <img src="image/kakak.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Kakak</h4>
-          <p>Pembawa canda, teman cerita, dan partner gila dalam petualangan.</p>
+          <p>Pembawa canda. Candanya itu suka habisin duit adek nya sendiri, suka pakai duit adeknya yang cukup banyak (padahal adeknya hanya memakai duitnya lebih sedikit dari yang dipakai kakaknya) 
         </div>
       </div>
 
