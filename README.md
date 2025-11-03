@@ -296,7 +296,7 @@
         <img src="image/mama.jpg" alt="Mama">
         <div class="member-info">
           <h4>Mama</h4>
-          <p>Pelukannya adalah rumah, senyumnya penenang hati.</p>
+          <p>Ibu adalah lentera yang menerangi hidupku, senyum dan pelukan eratmu yg selalu kurindukan</p>
         </div>
       </div>
 
@@ -304,7 +304,7 @@
         <img src="image/kakak.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Kakak</h4>
-          <p>Ibu adalah lentera yang menerangi hidupku, senyum dan pelukan eratmu yg selalu kurindukan</p>
+          <p>Suka bercanda. canda nya itu suka menghabiskan uang adeknya yang sedikit itu (padahal adeknya sudah nabung berbulan bulan)</p>
         </div>
       </div>
 
@@ -312,7 +312,7 @@
         <img src="image/Foto ku.jpg" alt="Sitampan">
         <div class="member-info">
           <h4>Aku</h4>
-          <p>Pewaris tawa dan kenangan yang akan terus dijaga.</p>
+          <p>Siganteng, imut, alim , lembut, penyayang, murah hati, pokonya paket lengkap dah</p>
         </div>
       </div>
     </div>
