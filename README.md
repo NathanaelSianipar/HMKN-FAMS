@@ -304,7 +304,7 @@
         <img src="image/kakak.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Kakak</h4>
-          <p>Suka bercanda. canda nya itu suka menghabiskan uang adeknya yang sedikit itu (padahal adeknya sudah nabung berbulan bulan)</p>
+          <p>Kakakku yang cantik, baik hati dan tidak sombong, selalu berbagi rezeki kepada adiknya, sayang orangtua dan adiknya</p>
         </div>
       </div>
 
