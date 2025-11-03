@@ -388,28 +388,6 @@
         </div>
       </div>
 
-      <div class="family-container">
-      <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_cddb0710.jpg" alt="Bapak">
-        <div class="member-info">
-          <h4>sebelum PA</h4>
-        </div>
-      </div>
-
-      <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_503a2b7d.jpg" alt="Mama">
-        <div class="member-info">
-          <h4>di patung sibea be</h4>
-        </div>
-      </div>
-
-      <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_fbe1431a.jpg" alt="Kakak">
-        <div class="member-info">
-          <h4>with mam</h4>
-        </div>
-      </div>
-
       <div class="family-member">
         <img src="image/WhatsApp Image 2025-10-27 at 14.35.27_83d27f88.jpg" alt="Aku">
         <div class="member-info">
