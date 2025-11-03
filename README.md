@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -469,7 +470,7 @@
 
       <div class="audio-container">
         <audio id="audioPlayer" controls autoplay loop>
-          <source src="Laskar Pelangi  TRUST (Trinity Youth Symphony Orchestra).mp3" type="audio/mp3">
+          <source src="music1.mp3" type="audio/mp3">
           <source src="music2.mp3" type="audio/mp3">
           Browser kamu tidak mendukung audio.
         </audio>
@@ -478,10 +479,6 @@
       </div>
     </div>
   </section>
-
-  <audio autoplay loop>
-  <source src="Laskar Pelangi  TRUST (Trinity Youth Symphony Orchestra).mp3" type="audio/mpeg">
-</audio>
 
   <style>
     #music {
