@@ -479,6 +479,10 @@
     </div>
   </section>
 
+  <audio autoplay loop>
+  <source src="Laskar Pelangi  TRUST (Trinity Youth Symphony Orchestra).mp3" type="audio/mpeg">
+</audio>
+
   <style>
     #music {
       padding: 100px 20px;
@@ -699,7 +703,7 @@
     const currentSongText = document.getElementById('currentSong');
 
     const musicList = [
-      { title: "Orkestra Keluarga", file: "music1.mp3" },
+      { title: "Orkestra Keluarga", file: "Laskar Pelangi  TRUST (Trinity Youth Symphony Orchestra).mp3" },
       { title: "Kenangan Manis", file: "music2.mp3" },
       { title: "Lagu Rumah", file: "music3.mp3" }
     ];
