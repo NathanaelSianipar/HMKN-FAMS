@@ -1,6 +1,12 @@
 # HMKN-FAMS
 
-
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HMKN FAMS - Nostalgia Keluarga</title>
+  <style>
     :root {
       --gold-light: #ffd27f;
       --gold-dark: #b36b00;
