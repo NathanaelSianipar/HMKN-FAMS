@@ -330,6 +330,7 @@
         <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_91c60de1.jpg" alt="Kenangan 2">
         <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_1a490fb1.jpg" alt="Kenangan 3">
         <img src="image/WhatsApp Image 2025-10-27 at 14.45.45_8218803c.jpg" alt="Kenangan 4">
+        <img src="image/WhatsApp Image 2025-11-03 at 16.41.10_7d8590a2.jpg" alt="Kenangan 5">
       </div>
     </div>
   </section>
@@ -338,28 +339,28 @@
     <h3>Album Keluarga</h3>
     <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-21 at 16.44.17_022b223c.jpg" alt="Bapak">
+        <img src="image/WhatsApp Image 2025-10-21 at 16.44.17_022b223c.jpg" alt="11">
         <div class="member-info">
           <h4>Inagurasi</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-21 at 16.49.23_7f4f3762.jpg" alt="Mama">
+        <img src="image/WhatsApp Image 2025-10-21 at 16.49.23_7f4f3762.jpg" alt="22">
         <div class="member-info">
           <h4>Bersama Tulang</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 07.58.20_9224a7a0.jpg" alt="Kakak">
+        <img src="image/WhatsApp Image 2025-10-27 at 07.58.20_9224a7a0.jpg" alt="33">
         <div class="member-info">
           <h4>Waktu kecil</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_4d348735.jpg" alt="Aku">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_4d348735.jpg" alt="44">
         <div class="member-info">
           <h4>H-1 di IT Del</h4>
         </div>
@@ -368,30 +369,45 @@
 
     <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_cddb0710.jpg" alt="Bapak">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_cddb0710.jpg" alt="55">
         <div class="member-info">
           <h4>sebelum PCA</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_503a2b7d.jpg" alt="Mama">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_503a2b7d.jpg" alt="66">
         <div class="member-info">
           <h4>di patung sibea bea</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_fbe1431a.jpg" alt="Kakak">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_fbe1431a.jpg" alt="77">
         <div class="member-info">
           <h4>with mama</h4>
         </div>
       </div>
 
+      <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.35.27_83d27f88.jpg" alt="Aku">
+        <img src="image/WhatsApp Image 2025-11-03 at 19.45.35_8f37698f.jpg" alt="88">
         <div class="member-info">
-          <h4>with kakak</h4>
+          <h4>Lepas sidi kakak</h4>
+        </div>
+      </div>
+
+      <div class="family-member">
+        <img src="image/WhatsApp Image 2025-11-03 at 16.48.25_22991864.jpg" alt="99">
+        <div class="member-info">
+          <h4>Foto berempat</h4>
+        </div>
+      </div>
+
+      <div class="family-member">
+        <img src="image/WhatsApp Image 2025-11-03 at 16.41.10_7d8590a2.jpg" alt="111">
+        <div class="member-info">
+          <h4>Berempat di gereja </h4>
         </div>
       </div>
     </div>
