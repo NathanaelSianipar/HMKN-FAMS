@@ -330,7 +330,6 @@
         <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_91c60de1.jpg" alt="Kenangan 2">
         <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_1a490fb1.jpg" alt="Kenangan 3">
         <img src="image/WhatsApp Image 2025-10-27 at 14.45.45_8218803c.jpg" alt="Kenangan 4">
-        <img src="image/WhatsApp Image 2025-11-03 at 16.41.10_7d8590a2.jpg" alt="Kenangan 5">
       </div>
     </div>
   </section>
@@ -339,28 +338,28 @@
     <h3>Album Keluarga</h3>
     <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-21 at 16.44.17_022b223c.jpg" alt="11">
+        <img src="image/WhatsApp Image 2025-10-21 at 16.44.17_022b223c.jpg" alt="Bapak">
         <div class="member-info">
           <h4>Inagurasi</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-21 at 16.49.23_7f4f3762.jpg" alt="22">
+        <img src="image/WhatsApp Image 2025-10-21 at 16.49.23_7f4f3762.jpg" alt="Mama">
         <div class="member-info">
           <h4>Bersama Tulang</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 07.58.20_9224a7a0.jpg" alt="33">
+        <img src="image/WhatsApp Image 2025-10-27 at 07.58.20_9224a7a0.jpg" alt="Kakak">
         <div class="member-info">
           <h4>Waktu kecil</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_4d348735.jpg" alt="44">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_4d348735.jpg" alt="Aku">
         <div class="member-info">
           <h4>H-1 di IT Del</h4>
         </div>
@@ -369,45 +368,30 @@
 
     <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_cddb0710.jpg" alt="55">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.34.59_cddb0710.jpg" alt="Bapak">
         <div class="member-info">
           <h4>sebelum PCA</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_503a2b7d.jpg" alt="66">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.50.42_503a2b7d.jpg" alt="Mama">
         <div class="member-info">
           <h4>di patung sibea bea</h4>
         </div>
       </div>
 
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_fbe1431a.jpg" alt="77">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.35.26_fbe1431a.jpg" alt="Kakak">
         <div class="member-info">
           <h4>with mama</h4>
         </div>
       </div>
 
-      <div class="family-container">
       <div class="family-member">
-        <img src="image/WhatsApp Image 2025-11-03 at 19.45.35_8f37698f.jpg" alt="88">
+        <img src="image/WhatsApp Image 2025-10-27 at 14.35.27_83d27f88.jpg" alt="Aku">
         <div class="member-info">
-          <h4>Lepas sidi kakak</h4>
-        </div>
-      </div>
-
-      <div class="family-member">
-        <img src="image/WhatsApp Image 2025-11-03 at 16.48.25_22991864.jpg" alt="99">
-        <div class="member-info">
-          <h4>Foto berempat</h4>
-        </div>
-      </div>
-
-      <div class="family-member">
-        <img src="image/WhatsApp Image 2025-11-03 at 16.41.10_7d8590a2.jpg" alt="111">
-        <div class="member-info">
-          <h4>Berempat di gereja </h4>
+          <h4>with kakak</h4>
         </div>
       </div>
     </div>
@@ -599,7 +583,7 @@
         this.size = Math.random() * 2 + 0.5;
         this.speedX = (Math.random() - 0.5) * 0.5;
         this.speedY = Math.random() * 0.7 + 0.3;
-        this.color = `rgba(255,255,255,${Math.random()*0.7})`;
+        this.color = rgba(255,255,255,${Math.random()*0.7});
       }
       update(){
         this.x += this.speedX;
@@ -642,7 +626,7 @@
     function autoSlide(){
       index++;
       if(index >= slides.children.length) index = 0;
-      slides.style.transform = `translateX(-${index * 25}%)`;
+      slides.style.transform = translateX(-${index * 25}%);
     }
     setInterval(autoSlide, 4000);
 
@@ -702,7 +686,7 @@
 
     let currentQuote = 0;
     function updateQuote(){
-      quoteBox.textContent = `"${quotes[currentQuote]}"`;
+      quoteBox.textContent = "${quotes[currentQuote]}";
       currentQuote = (currentQuote + 1) % quotes.length;
       quoteBox.classList.add('visible');
       setTimeout(()=>quoteBox.classList.remove('visible'), 4000);
